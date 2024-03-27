@@ -22,7 +22,7 @@ Knoxville, TN, USA
 
 # navbar
 
-About
+home
 Resume
 Portfolio
 Blog
